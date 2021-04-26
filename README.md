@@ -13,6 +13,7 @@ Eric Lin
     - make -j 3 modules && make -j 3 && sudo make modules_install && sudo make install
   - Install virtual manager and run a VM in the VM
     - sudo apt install virt-manager
+    - virt-manager
   - Add test file to the nested virtual manager to check for number of exits and how many cycles spent in the exit
 
 ### 3. Comments on the frequency of exits:
